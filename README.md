@@ -1,4 +1,10 @@
 # rails_practice
+TOP画面
+![スクリーンショット 2023-03-12 203456](https://user-images.githubusercontent.com/88881324/224541967-3f08e50d-bd9e-4b46-b153-5d65de988bee.png)
+
+詳細画面
+![スクリーンショット 2023-03-12 203522](https://user-images.githubusercontent.com/88881324/224541972-006f18e3-60bf-4aa0-ba71-740c4ba6ac18.png)
+
 
 ## やったこと
 * Q&Aのアプリの作成(Udemy)
