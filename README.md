@@ -1,4 +1,5 @@
-# rails練習
+# rails_practice
+
 ## やったこと
 * Q&Aのアプリの作成(Udemy)
 * cloud9で実装、Herokuでデプロイ→削除
